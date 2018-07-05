@@ -1,0 +1,8 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+#profileImage{
+  height: 100px;
+  width:  100px;
+}
